@@ -4,6 +4,7 @@ This project is a Python notebook that uses machine learning models to detect em
 ## Prerequisites
 Python 3
 Jupyter Notebook
+Download the dataset: https://www.kaggle.com/datasets/deadskull7/fer2013
 
 ## Getting Started
 Clone the repository:
