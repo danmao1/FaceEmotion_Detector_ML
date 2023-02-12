@@ -11,13 +11,10 @@ Clone the repository:
 git clone https://github.com/danmao1/FaceEmotion_Detector_ML.git
 
 Navigate to the project directory:
-bash
-Copy code
-cd emotion-detection
 Launch Jupyter Notebook:
-Copy code
 jupyter notebook
 Open the ipynb file in Jupyter Notebook.
+
 ## Project Overview
 This notebook covers the following steps in the process of building a machine learning model for emotion detection in facial images:
 
